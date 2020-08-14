@@ -1,4 +1,4 @@
-# Python Tinder Bot Which collects all the Profile's data!
+# Tinder Bot for Data Scientists
 
 Python Tinder Bot, which auto right swipes right for you, and also collects all profiles data such as Name, age, and Bio
 
